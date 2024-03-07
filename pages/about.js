@@ -12,13 +12,13 @@ export default function About() {
         className="px-4"
       >
         <div className="mb-6 text-center text-gray-800 dark:text-white">
-          Hi, I'm Noah! I am a Software Engineer at Fiserv with a passion for cutting-edge tech and 
-          developing software that makes a positive impact on people's lives.
+          Hi, I&apos;m Noah! I am a Software Engineer at Fiserv with a passion for cutting-edge tech and 
+          developing software that makes a positive impact on people&apos;s lives.
         </div>
         <div className="text-center text-gray-800 dark:text-white">
           In addition to coding and learning new tech, I enjoy playing soccer, boxing, 
           reading, and hanging with my dog. If any of these things interest you too,
-          I'd love to chat!
+          I&apos;d love to chat!
         </div>
       </motion.div>
     </Layout>
